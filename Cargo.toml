@@ -1,0 +1,9 @@
+[package]
+name = "tcpthing"
+version = "0.1.0"
+authors = ["Joshua Kifer <joshua@moonlight.pm>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.3.14"
+clap = "2.33.0"
